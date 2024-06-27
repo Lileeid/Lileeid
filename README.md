@@ -11,7 +11,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
+<img align="right" alt="GIF" src="https://www.google.com/search?sca_esv=f710b59ea0d4d1b3&q=programming+picture&udm=2&fbs=AEQNm0DpvuYEwHLg4ukM13djj3L-QHoYfc9S0SPPH_LNq0-s-glyVvhUn4PiSMZXzyjuHWodxg8jPuyPvM4lB7W6j98tUsZypfw-hBO51sk4Mdx7iYopxB9EpB6F8LdfazyUzrmxHnDyYEDVCnX3qwOAckZcqsnV2pM2KnlA7JWUEV6LiIcNiGUMFKf0De8JrBWb5XODlBEMMGJuu_6_R5uVLEpdRm8_qpAbNXdvUnQN64v4ESTk6kM&sa=X&ved=2ahUKEwiCwLaK8_yGAxXNPxAIHSvvAT0QtKgLegQICxAB&biw=2048&bih=926&dpr=0.94#vhid=zTN8fE0ZP9zCiM&vssid=mosaic" width="400" height="280" />
   
 **Languages and Tools:**  
 
