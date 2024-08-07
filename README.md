@@ -7,7 +7,7 @@
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
-Привет, меня зовут Лейли, я студентка. Сейчас учусь на ИТ-специалиста.
+Привет, меня зовут Лейли, я студентка СПБПУ, обучаюсь на ИТ-направлении
 
 <br />
 
